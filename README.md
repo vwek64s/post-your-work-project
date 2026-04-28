@@ -1,27 +1,54 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
+## Project Overview
 
-# Project Title
+This repository contains a Python script (`bikeshare.py`) as part of a Udacity project.
+The goal of this project is to practice working with Git, GitHub, and version control workflows.
 
-Describe what your project is about and what it does
+---
 
-## Information about how to use your project
+## How to Use
 
-This could include:
+1. Clone the repository:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+```bash
+git clone https://github.com/vwek64s/post-your-work-project.git
+```
 
-## Contribution guidelines
+2. Navigate into the project folder:
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+```bash
+cd post-your-work-project
+```
+
+3. Run the Python script:
+
+```bash
+python bikeshare.py
+```
+
+---
+
+## Requirements
+
+* Python 3
+* A terminal or command line interface
+
+---
+
+## Contribution Guidelines
+
+This project is part of a Udacity assignment and is not intended for external contributions.
+
+---
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is based on the Udacity repository:
+https://github.com/udacity/post-your-work-project
 
-## Date created
+---
 
-Include the date you created this project and README file.
+## Date Created
+
+April 2026
